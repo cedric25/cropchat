@@ -1,16 +1,12 @@
 {
-  "orientation": "portrait",
-  "display": "fullscreen",
-  "icons": [
-    {
-      "src": "logo.png",
-      "sizes": "200x200",
-      "type": "image/png"
-    }
-  ],
   "name": "CropChat",
-  "start_url": "/",
   "description": "CropChat - Image Messenger Application",
-  "theme_color": "#2196f3",
-  "background_color": "#2196f3"
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#fff",
+  "icons": [{
+    "src": "logo.png",
+    "sizes": "200x200",
+    "type": "image/png"
+  }]
 }
